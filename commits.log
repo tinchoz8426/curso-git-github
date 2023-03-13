@@ -1,0 +1,86 @@
+commit c0349d2339a9fb6ab51194f029fce1148decce60
+Merge: b8c2276 0da0b89
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 19:34:09 2023 -0300
+
+    Merge branch 'main' of https://github.com/tinchoz8426/curso-git-github
+
+commit b8c2276a891dabbaed8b6b95ecabdcfb1778617d
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 18:50:46 2023 -0300
+
+    agregamos cantidades de los ingredientes
+
+commit 0da0b89dd66f7da855f60ff8ef9232c67d50bc77
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 18:50:46 2023 -0300
+
+    Ingredientes para la torta
+
+commit 5e992a5bf456252417933e78e4713b080dd34752
+Merge: fa60308 9a7dfd1
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 17:40:32 2023 -0300
+
+    resolvimos conflicto en index.html
+
+commit 9a7dfd1db2e731a42b57d25219f327fad2d011ec
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 16:35:50 2023 -0300
+
+    Agregando main.js al index.html
+
+commit fa603085a8a032b1dfe57f3b206d7089105d4d3f
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 16:28:13 2023 -0300
+
+    Agregando style.css al index
+
+commit 1f80de9c5b56cb8af11e36c602a621e1d268a792
+Merge: 29acd62 b601910
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 15:21:19 2023 -0300
+
+    Merge branch 'rama-js'
+
+commit b601910715a581c2e8fa14b340375dccea3ce1de
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 13:03:52 2023 -0300
+
+    creamos el archivo main.js
+
+commit 29acd6265ce7f6942c74582c93059b4e45aa1ea7
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 12:55:59 2023 -0300
+
+    creando el archivo css
+
+commit 1f95a6c5cefacacea0585a6a0fa2ad41094a4f80
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 12:05:59 2023 -0300
+
+    creando el index.html
+
+commit c1b55c55ed362cb8774c3348681439175d527fe1
+Author: Enzo Martín Zotti <76183907+tinchoz8426@users.noreply.github.com>
+Date:   Sun Mar 12 10:16:51 2023 -0300
+
+    creamos la licencia
+
+commit 2dde2d0ab22cc6322b8660373598084772ed08c4
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sun Mar 12 09:59:55 2023 -0300
+
+    agregamos mas contenido al README
+
+commit 3f6135560830fbe2e5f194a7c97fee91516f284d
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sat Mar 11 19:53:21 2023 -0300
+
+    agregue contenido al README.md
+
+commit 73e64a39fe7e791af1a403a5cb7293225804f9ed
+Author: tinchoz8426 <tinchoz8426@gmail.com>
+Date:   Sat Mar 11 18:59:17 2023 -0300
+
+    primer commit

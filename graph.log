@@ -1,0 +1,21 @@
+*   c0349d2 Merge branch 'main' of https://github.com/tinchoz8426/curso-git-github
+|\  
+| * 0da0b89 Ingredientes para la torta
+* | b8c2276 agregamos cantidades de los ingredientes
+|/  
+*   5e992a5 resolvimos conflicto en index.html
+|\  
+| * 9a7dfd1 Agregando main.js al index.html
+* | fa60308 Agregando style.css al index
+* |   1f80de9 Merge branch 'rama-js'
+|\ \  
+| * | b601910 creamos el archivo main.js
+* | | 29acd62 creando el archivo css
+| |/  
+|/|   
+* | 1f95a6c creando el index.html
+|/  
+* c1b55c5 creamos la licencia
+* 2dde2d0 agregamos mas contenido al README
+* 3f61355 agregue contenido al README.md
+* 73e64a3 primer commit
